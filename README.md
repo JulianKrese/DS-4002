@@ -17,7 +17,7 @@ HotDog/
 - **Data Source**: Survey responses collected via online survey sent to UVA undergraduate students
 - **Collection Date**: August 2025
 - **Collection Method**: Online survey distributed to UVA undergraduate students
-- **Sample Size**: [Number] responses
+- **Sample Size**: 207 responses
 
 ### Management Plan
 - Data is stored in Excel format (.xlsx)
