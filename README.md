@@ -51,7 +51,7 @@ HotDog/
 ### Potential Biases
 1. **Sample Bias**: 
    - Survey may not represent entire UVA student population
-   - [Add specific demographic representation issues]
+   - Disporportionate amount of 4th and 3rd years
 
 2. **Response Bias**:
    - [Discuss any potential response biases]
